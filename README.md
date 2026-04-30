@@ -1,1 +1,4 @@
-# python-college-test5
+## Run tests
+
+```bash
+uv run pytest -v
